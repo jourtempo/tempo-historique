@@ -1,5 +1,7 @@
 # Tempo day colours since 2014: daily dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23422802.svg)](https://doi.org/10.5281/zenodo.23422802)
+
 Daily colour (blue, white or red) of the French **Tempo** electricity tariff, from **1 September 2014** to the latest
 announced day, as published by **RTE**, the French transmission system operator. Compiled and kept up to date by
 [Jour Tempo](https://jourtempo.fr/).

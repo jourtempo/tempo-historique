@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it as below and credit the source: Couleurs Tempo : RTE, via Jour Tempo."
 type: dataset
 title: "Tempo day colours since 2014-2015 (daily dataset)"
+doi: 10.5281/zenodo.23422802
 abstract: >-
   Daily colour (blue, white or red) of the French Tempo electricity tariff since 1 September 2014,
   one line per day with date, colour and season, as published by RTE (API Tempo Like Supply Contract,
