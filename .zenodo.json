@@ -1,0 +1,41 @@
+{
+  "upload_type": "dataset",
+  "title": "Tempo day colours since 2014-2015 (daily dataset)",
+  "description": "<p>Daily colour (blue, white or red) of the French Tempo electricity tariff since 1 September 2014: one line per day with date (YYYY-MM-DD), colour (bleu, blanc, rouge) and Tempo season (1 September to 31 August). A Tempo day runs from 06:00 to 06:00, Paris time.</p><p>Source: colours set and published by RTE, the French transmission system operator (API Tempo Like Supply Contract, data.rte-france.com), read several times a day and compiled by Jour Tempo. Each version is a snapshot of the file at the release date; the live file is updated every day at https://jourtempo.fr/api/v1/tempo-historique.csv (free API, no key).</p><p>Credit when reusing: \"Couleurs Tempo : RTE, via Jour Tempo (https://jourtempo.fr)\". Jour Tempo is independent from EDF and RTE. Contact: contact@jourtempo.fr</p>",
+  "creators": [
+    {
+      "name": "Jour Tempo"
+    }
+  ],
+  "license": "etalab-2.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "Tempo",
+    "EDF",
+    "RTE",
+    "electricity",
+    "tariff",
+    "France",
+    "open data",
+    "time series"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://jourtempo.fr/api/",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://www.data.gouv.fr/datasets/historique-des-couleurs-tempo-depuis-2014-jours-bleus-blancs-et-rouges",
+      "relation": "isVersionOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://data.rte-france.com/catalog/-/api/consumption/Tempo-Like-Supply-Contract/v1.1",
+      "relation": "isDerivedFrom",
+      "resource_type": "other"
+    }
+  ],
+  "notes": "Data under Licence Ouverte 2.0 (Etalab). Tempo colours from RTE: reuse allowed provided the source is credited (terms of use of data.rte-france.com, article 9)."
+}
